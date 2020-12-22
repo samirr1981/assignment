@@ -1,8 +1,8 @@
 
 download project from repository and  execute below command
     mvn spring-boot:run will run the applicaiton on port 8080
-OR
-  Executable JAR file is also uploaded to the GIT project
+    
+(Executable JAR is too big to commit, I can share it individually if reuired)
 
 Once application is running, you can browse API with below swagger URL
   http://localhost:8080/swagger-ui.html#!/
