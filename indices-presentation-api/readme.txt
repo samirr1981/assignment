@@ -20,4 +20,4 @@ Assumptions:
 5) Exception Handling and Request Validation has been implimented just for demonstration and can be enhanced more according to the business requirement
 6) JUnit is written on controller level to save development time.
 
-I would like to improve Validations, Exception management and Data stracture.
+I would like to improve Validations and Exception management. I would also like to impliment the soulution with rective api if organization sofware infracture suport the same. 
